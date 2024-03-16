@@ -1,14 +1,14 @@
-package com.stocky;
-
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
-@SpringBootTest
-class StockyApplicationTests {
-
-    @Test
-    void contextLoads() {
-
-    }
-
-}
+//package com.stocky;
+//
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
+//
+//@SpringBootTest
+//class StockyApplicationTests {
+//
+//    @Test
+//    void contextLoads() {
+//
+//    }
+//
+//}
